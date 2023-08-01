@@ -1,2 +1,5 @@
 # artGallorey
 Art organization 
+
+
+init
