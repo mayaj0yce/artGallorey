@@ -1,18 +1,21 @@
 [
 {
-"Name":"marky Mark",
+"Name":"markyMark",
 "Age": "23",
-"firstArt": "2/25/2020"
+"firstArt": "2/25/2020",
+"email": "markdMark@yahoo.com"
 },
 {
 "Name": "",
 "Age": "",
-"firstArt": ""
+"firstArt": "",
+"email": ""
 },
 {
     "Name": "",
     "Age": "",
-    "firstArt": ""
+    "firstArt": "",
+    "email": ""
 }
 
 ]
