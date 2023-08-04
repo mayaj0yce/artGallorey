@@ -1,6 +1,5 @@
 [
     {
-        "id": "1",
         "title": "Blue moon",
         "artist": "markyMark",
         "description": "",
@@ -8,7 +7,6 @@
         "completed": "true"
     },
     {
-        "id": "1",
         "title": "Blue moon",
         "artist": "markyMark",
         "description": "",
@@ -16,7 +14,6 @@
         "completed": "true"
     },
     {
-        "id": "1",
         "title": "Blue moon",
         "artist": "markyMark",
         "description": "",
@@ -24,7 +21,6 @@
         "completed": "true"
     },
     {
-        "id": "1",
         "title": "Blue moon",
         "artist": "markyMark",
         "description": "",
@@ -32,7 +28,6 @@
         "completed": "true"
     },
     {
-        "id": "1",
         "title": "Blue moon",
         "artist": "markyMark",
         "description": "",
@@ -40,12 +35,13 @@
         "completed": "true"
     },
     {
-        "id": "1",
         "title": "Blue moon",
         "artist": "markyMark",
         "description": "",
         "date": "",
         "completed": "true"
     },
-    {}
+    {
+        
+    }
 ]
