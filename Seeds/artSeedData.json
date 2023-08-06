@@ -2,46 +2,46 @@
     {
         "title": "Blue moon",
         "artist": "markyMark",
-        "description": "",
-        "date": "",
+        "description": "Acrylic on canvas. multiple shades of blue with a white moon in the upper section",
+        "date": "12/17/2020",
         "completed": "true"
     },
     {
-        "title": "Blue moon",
+        "title": "Light in the Darkness",
+        "artist": "MayaJoyce",
+        "description": "collage with bright lettering and fun painted frame",
+        "date": "4/20/2016",
+        "completed": "true"
+    },
+    {
+        "title": "without a pharaoh's end",
+        "artist": "MayaJoyce",
+        "description": "Mixed Medium piece with a lot focus on animals",
+        "date": "5/2/2015",
+        "completed": "true"
+    },
+    {
+        "title": "Mirrors misc.",
+        "artist": "Kayden",
+        "description": "series of mirrors with paint around the edge. Roses, butterflies, clouds, rick and morty.",
+        "date": "3/27/2018",
+        "completed": "true"
+    },
+    {
+        "title": "CNN",
         "artist": "markyMark",
-        "description": "",
-        "date": "",
+        "description": "collection of some cartoon characters. Adventure Time and steven universe",
+        "date": "2/25/2010",
+        "completed": "false"
+    },
+    {
+        "title": "DuckDestruct",
+        "artist": "Kayden",
+        "description": "Stuffed rabbit with duck head replacement",
+        "date": "4/17/2019",
         "completed": "true"
     },
     {
-        "title": "Blue moon",
-        "artist": "markyMark",
-        "description": "",
-        "date": "",
-        "completed": "true"
-    },
-    {
-        "title": "Blue moon",
-        "artist": "markyMark",
-        "description": "",
-        "date": "",
-        "completed": "true"
-    },
-    {
-        "title": "Blue moon",
-        "artist": "markyMark",
-        "description": "",
-        "date": "",
-        "completed": "true"
-    },
-    {
-        "title": "Blue moon",
-        "artist": "markyMark",
-        "description": "",
-        "date": "",
-        "completed": "true"
-    },
-    {
-        
+
     }
 ]

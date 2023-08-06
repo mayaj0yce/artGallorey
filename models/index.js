@@ -1,4 +1,4 @@
-const Artist = require('./Arist');
+const Artist = require('./Artist');
 const Artwork = require('./Artwork');
 
 Artist.hasMany(Artwork, {
@@ -10,4 +10,4 @@ Artwork.belongsTo(Artist, {
     foreignKey: 'artist_id'
 });
 
-module.exports = { Artist, Project };
+module.exports = { Artist, Artwork };

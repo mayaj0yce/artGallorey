@@ -28,4 +28,5 @@ Artist.init(
             },
           },
     }
-)
+);
+module.exports = Artist;

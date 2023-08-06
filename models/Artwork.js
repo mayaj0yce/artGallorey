@@ -19,6 +19,8 @@ Artwork.init(
         type: DataTypes.STRING,
         allowNull: false,
     },
-    
+
 }
-)
+);
+
+module.exports = Artwork;
