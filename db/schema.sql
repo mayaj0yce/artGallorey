@@ -1,4 +1,4 @@
--- Active: 1689882445946@@127.0.0.1@3306@user_db
+
 DROP DATABASE IF EXISTS art_db;
 
 CREATE DATABASE art_db;

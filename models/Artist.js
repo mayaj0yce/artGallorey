@@ -15,10 +15,6 @@ Artist.init(
             type: DataTypes.STRING,
             allowNull: false,
         },
-        firstArt: {
-            type: DataTypes.DATE,
-            allowNull: false,
-        },
         email: {
             type: DataTypes.STRING,
             allowNull: false,
@@ -27,6 +23,12 @@ Artist.init(
               isEmail: true,
             },
           },
-    }
+        },
+        {
+            sequelize,
+            timestamps: false,
+            freezeTableName: true,
+            underscored: true,
+            modelName: 'artist'}
 );
 module.exports = Artist;

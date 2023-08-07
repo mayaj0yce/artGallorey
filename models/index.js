@@ -1,13 +1,13 @@
 const Artist = require('./Artist');
-const Artwork = require('./Artwork');
+const Art = require('./Art');
 
-Artist.hasMany(Artwork, {
+Artist.hasMany(Art, {
     foreignKey: 'artist_id',
     onDelete: 'CASCADE',
 });
 
-Artwork.belongsTo(Artist, {
-    foreignKey: 'artwork_id'
+Art.belongsTo(Artist, {
+    foreignKey: 'artist_id'
 });
 
-module.exports = { Artist, Artwork };
+module.exports = { Artist, Art };
