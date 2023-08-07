@@ -6,10 +6,10 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'artist')));
 // Sets up the routes
-app.use(require('./routes/index'));
-
+// app.use(require('./routes/index'));
+app.use(express.urlencoded({ extended: true }));
 // Starts the server to begin listening
 app.listen(PORT, () => {
   console.log('Server listening on: http://localhost:' + PORT);

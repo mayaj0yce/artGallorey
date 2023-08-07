@@ -1,21 +1,17 @@
 [
-{
-"Name":"markyMark",
-"Age": "33",
-"firstArt": "2/25/2020",
-"email": "markdMark@yahoo.com"
-},
-{
-"Name": "Kayden",
-"Age": "23",
-"firstArt": "3/27/2018",
-"email": "ksmarkts@gmail.com"
-},
-{
-    "Name": "MayaJoyce",
-    "Age": "22",
-    "firstArt": "12/22/2015",
-    "email": "m.j.thayne!@gmail.com"
-}
-
+    {
+        "Name": "markyMark",
+        "Age": "33",
+        "email": "markdMark@yahoo.com"
+    },
+    {
+        "Name": "Kayden",
+        "Age": "23",
+        "email": "ksmarkts@gmail.com"
+    },
+    {
+        "Name": "MayaJoyce",
+        "Age": "22",
+        "email": "m.j.thayne!@gmail.com"
+    }
 ]
