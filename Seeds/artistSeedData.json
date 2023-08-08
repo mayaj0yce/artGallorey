@@ -1,17 +1,17 @@
 [
     {
-        "Name": "markyMark",
-        "Age": "33",
+        "name": "markyMark",
+        "age": "33",
         "email": "markdMark@yahoo.com"
     },
     {
-        "Name": "Kayden",
-        "Age": "23",
+        "name": "Kayden",
+        "age": "23",
         "email": "ksmarkts@gmail.com"
     },
     {
-        "Name": "MayaJoyce",
-        "Age": "22",
+        "name": "MayaJoyce",
+        "age": "22",
         "email": "m.j.thayne!@gmail.com"
     }
 ]

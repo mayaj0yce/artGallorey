@@ -1,47 +1,44 @@
 [
     {
         "title": "Blue moon",
-        "artist": "markyMark",
+        "artist": "1",
         "description": "Acrylic on canvas. multiple shades of blue with a white moon in the upper section",
         "date": "12/17/2020",
         "completed": "true"
     },
     {
         "title": "Light in the Darkness",
-        "artist": "MayaJoyce",
+        "artist": "3",
         "description": "collage with bright lettering and fun painted frame",
         "date": "4/20/2016",
         "completed": "true"
     },
     {
         "title": "without a pharaoh's end",
-        "artist": "MayaJoyce",
+        "artist": "3",
         "description": "Mixed Medium piece with a lot focus on animals",
         "date": "5/2/2015",
         "completed": "true"
     },
     {
         "title": "Mirrors misc.",
-        "artist": "Kayden",
+        "artist": "2",
         "description": "series of mirrors with paint around the edge. Roses, butterflies, clouds, rick and morty.",
         "date": "3/27/2018",
         "completed": "true"
     },
     {
         "title": "CNN",
-        "artist": "markyMark",
+        "artist": "1",
         "description": "collection of some cartoon characters. Adventure Time and steven universe",
         "date": "2/25/2010",
         "completed": "false"
     },
     {
         "title": "DuckDestruct",
-        "artist": "Kayden",
+        "artist": "2",
         "description": "Stuffed rabbit with duck head replacement",
         "date": "4/17/2019",
         "completed": "true"
-    },
-    {
-
     }
 ]

@@ -2,3 +2,6 @@
 DROP DATABASE IF EXISTS art_db;
 
 CREATE DATABASE art_db;
+
+USE art_db;
+
