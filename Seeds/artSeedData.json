@@ -1,7 +1,7 @@
 [
     {
         "title": "Blue moon",
-        "artist": "1",
+        "artist_id": "1",
         "description": "Acrylic on canvas. multiple shades of blue with a white moon in the upper section",
         "date": "12/17/2020",
         "completed": "true"

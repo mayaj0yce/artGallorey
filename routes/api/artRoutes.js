@@ -35,22 +35,15 @@ router.post('/', async (req, res) => {
 
 
 //delete route
-router.delete('/', async (req, res) => {
-    try {
+router.delete('/:id', async (req, res) => {
         const artData = await Art.destroy({
             where: {
-                title: req.params.title,
+                id: req.params.id,
             },
         });
-        if (!artData) {
-            res.status(404).json({ message: 'No art found' });
-            return;
-        }
-        res.status(200).json(artData);
-    } catch (err) {
-        res.status(500).json(err);
-    }
-});
+
+        return res.json(artData);
+    });
 
 
 module.exports = router;
